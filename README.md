@@ -1,7 +1,7 @@
 # Parcial 2 - Cafetería U. Sabana
  
 ## Autor
-- [Juan David Neuta Medina]
+Juan David Neuta Medina
  
 ## Paso a Paso Realizado
  
